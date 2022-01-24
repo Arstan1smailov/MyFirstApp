@@ -85,7 +85,7 @@
         android:paddingLeft="12dp">
     </EditText>
 
-    <Button
+    <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/button"
         android:layout_width="match_parent"
         android:layout_marginHorizontal="54dp"
